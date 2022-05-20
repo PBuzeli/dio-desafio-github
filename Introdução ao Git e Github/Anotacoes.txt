@@ -1,0 +1,31 @@
+GIT
+
+O Git é um repositório de controle de versão de arquivos, utilizado para controlar versões de códigos-fonte e desenvolvimento colaborativo.
+
+Foi criado em 2005 pelo Linus Torvalds, criador do kernel do Linux, para hospedar o código-fonte do Linux e permitir a colaboração em seu desenvolvimento,
+ já que a antiga empresa que hospedava seu código, a BitKeeper, queria passar a cobrar pelos seu serviços.
+
+GITHUB
+
+Já o GitHub, lançado em 2008, é uma versão para web do Git.
+
+Os projetos no GitHub são em sua grande maioria open source, mas é possível tornar seu código código privado, disponível somente para algumas pessoas ou criando times.
+
+O GitHub já se tornou um dos, senão o maior armazém de códigos na nuvem.
+
+Git e GitHub são coisas diferentes.
+
+Você pode ter o Git para controle de versão somente em seu hd.
+
+Já o GitHub serve caso você queira compartilhar seu código ou colocá-lo na nuvem.
+
+O GitHub possui todas as funcionalidades do Git, e conta com várias outras funcionalidades extras, listadas a seguir:
+
+Documentação;
+Rastreamento de problemas;
+Wikis;
+Pull requests com comentário e revisão de código;
+Histórico de commits;
+Notificações por email e emojis;
+Arquivos do Photoshop podem ser vistos e comparados com versões anteriores;
+GitHub Pages: pequenos websites podem ser feitos.
